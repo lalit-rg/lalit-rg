@@ -28,13 +28,12 @@
 
 [<img align="left" alt="Lalit Kumar RG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Lalit Kumar RG | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Lalit Kumar RG | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/lalitrg
 [github]: https://github.com/lalit-rg
-[youtube]: https://www.youtube.com/ *(Replace with your actual channel link if available)*
 
 ---
 

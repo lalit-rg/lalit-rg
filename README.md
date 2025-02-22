@@ -37,10 +37,3 @@
 
 ---
 
-### **📌 How to Use This?**  
-1. Copy-paste this into your **GitHub profile README** (`README.md`).  
-2. Upload it to your **GitHub profile repository** (`github.com/lalit-rg`).  
-3. Replace **YouTube links** if you have a channel.  
-4. Done! Your **GitHub profile will look amazing** 🚀.  
-
-Let me know if you want **customizations!** 🔥
